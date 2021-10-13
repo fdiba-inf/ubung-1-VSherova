@@ -1,6 +1,6 @@
 package exercise1;
 
-public class Tree {
+public class Baum {
 
     public static void main(String[] args) {
         System.out.println("    *  ");
